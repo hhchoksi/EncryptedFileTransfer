@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Mihir Kotecha
+ * @author Harsh Choksi
  */
 public class decrypter {
      public static boolean Decrypter(String key,String Path) {
