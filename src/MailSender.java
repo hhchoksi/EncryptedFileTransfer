@@ -15,7 +15,7 @@ import javax.mail.*;
  */
 /**
  *
- * @author Mihir Kotecha
+ * @author Harsh Choksi
  */
 public class MailSender {
 
